@@ -1,5 +1,6 @@
 {
   "rooms": [
-    { "name": "Room Center", "scene": "RoomCenterScene" }
+    { "name": "Room Center", "scene": "RoomCenterScene" },
+    { "name": "Paintball", "scene": "Paintball" }
   ]
 }
